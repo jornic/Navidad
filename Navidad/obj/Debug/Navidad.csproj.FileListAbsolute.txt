@@ -1,0 +1,7 @@
+C:\Users\Jornic\source\repos\Navidad\Navidad\bin\Debug\Navidad.exe.config
+C:\Users\Jornic\source\repos\Navidad\Navidad\bin\Debug\Navidad.exe
+C:\Users\Jornic\source\repos\Navidad\Navidad\bin\Debug\Navidad.pdb
+C:\Users\Jornic\source\repos\Navidad\Navidad\obj\Debug\Navidad.csprojAssemblyReference.cache
+C:\Users\Jornic\source\repos\Navidad\Navidad\obj\Debug\Navidad.csproj.CoreCompileInputs.cache
+C:\Users\Jornic\source\repos\Navidad\Navidad\obj\Debug\Navidad.exe
+C:\Users\Jornic\source\repos\Navidad\Navidad\obj\Debug\Navidad.pdb
